@@ -39,6 +39,10 @@ button#explorer {
   overflow: hidden;
 }
 
+.overflow::after {
+  background: none !important;
+}
+
 #explorer-content {
   list-style: none;
   overflow: hidden;
