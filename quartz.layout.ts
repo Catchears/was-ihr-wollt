@@ -20,7 +20,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.Explorer({
+        mapFn: (node) => {
+          node.name = node.name
+            .replace("act", "Akt")
+            .replace("-", " ")
+            .replace("figuren", "Figuren")
+        },
+      }),
+    ),
   ],
   right: [
     Component.Graph({
@@ -48,7 +57,17 @@ export const defaultContentPageLayout: PageLayout = {
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
+    Component.MobileOnly(
+      Component.Explorer({
+        mapFn: (node) => {
+          node.name = node.name
+            .replace("act", "Akt")
+            .replace("-", " ")
+            .replace("figuren", "Figuren")
+        },
+      }),
+    ),
   ],
 }
 
