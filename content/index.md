@@ -24,7 +24,7 @@ alias: Was Ihr Wollt
 - [[Fabio]]
 - [[Narr]]
 - [[Olivia]]
-- [[Viola]] ([[Cesario]])
+- [[Viola|Viola (Cesario)]]
 - [[Maria]]
 - [[Priester]]
 - [[Erster Gerichtsdiener]]
