@@ -5,7 +5,7 @@ aliases:
   - 1. Akt 4. Szene
 ---
 ## Ort
-Zimmer im Palast des [[Orsino|Herzog Orsino]]s.
+Ein Zimmer im Palast des Herzog [[Orsino]]s.
 
 ## Figuren
 - [[Viola|Cesario (Viola)]]

@@ -17,7 +17,7 @@ Eine Straße.
 
 [[Viola]] fragt auch, wer das Land regiert ([[Orsino|Orsino]]). Der [[Schiffshauptmann|Schiffshauptmann]] erzählt daraufhin, [[Orsino|Orsino]] liebe die Gräfin [[Olivia]], die jedoch keinen einzigen Mann sehen möchte.
 
-[[Viola|Viola]] möchte ihr dienen, doch dies wird ihr ausgeredet; stattdessen verkleidet sie sich als Mann als [[Viola|Cesario]] und will dem Herzog [[Orsino]] dienen.
+[[Viola]] möchte ihr dienen, doch dies wird ihr ausgeredet; stattdessen verkleidet sie sich als Mann als [[Viola|Cesario]] und will dem Herzog [[Orsino]] dienen.
 
 ## Graph
 <iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-1-scene-2" width=100% height=550 style="border: 0;"></iframe>
