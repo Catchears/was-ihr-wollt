@@ -35,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         drag: true, // whether to allow panning the view around
-        zoom: false, // whether to allow zooming in and out
+        zoom: true, // whether to allow zooming in and out
         depth: 1, // how many hops of notes to display
         scale: 2, // default view scale
         repelForce: 0.5, // how much nodes should repel each other
