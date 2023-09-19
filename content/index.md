@@ -9,6 +9,10 @@ Auf den meisten Seiten dieser Webseite ist unten ein Graph sichtbar, der zeigt, 
 
 Alle Graphen sind ungefähr 3 bis 4 MB groß.
 
+Alle Graphen beziehen sich auf das englische Original und nicht auf eine deutsche Ausgabe.
+
+[[Wörterzahlen|Hier]] findet man die Gesamtwörterzahlen für alle Figuren.
+
 ## Inhalt
 - [[act-1|Akt 1]]
 - [[act-2|Akt 2]]
