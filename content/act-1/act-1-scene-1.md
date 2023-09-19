@@ -19,4 +19,9 @@ Der Herzog [[Orsino]] hört Musik und denkt über die Gräfin [[Olivia]] nach.
 [[Valentin]] kommt mit der Nachricht an, dass [[Olivia|Olivia]] den Herzog [[Orsino]] nicht sehen möchte, da sie die nächsten 7 Jahre um ihren Bruder trauert. [[Orsino|Orsino]] lässt sich nicht abschrecken.
 
 ## Graph
-<iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-1-scene-1" width=100% height=550 style="border: 0;"></iframe>
+<iframe id="graphiframe" width=100% height=550 style="border: 0"></iframe>
+
+<script>
+var iframe = document.getElementById('graphiframe');
+iframe.src = 'https://catchears.github.io/was-ihr-wollt-graphs/act-1/act-1-scene-1-' + document.documentElement.getAttribute('saved-theme');
+</script>
