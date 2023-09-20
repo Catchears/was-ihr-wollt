@@ -22,4 +22,4 @@ aliases:
 - [[Priester]]
 
 ## Graph
-<iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-5" width=100% height=550 style="border: 0;"></iframe>
+<iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-5/act-5-dark" width=100% height=550 style="border: 0;"></iframe>

@@ -20,4 +20,4 @@ Daraufhin besteht [[Junker Tobias von Rülp|Tobias]] darauf, dass [[Junker Chris
 [[Maria]] geht und [[Junker Christoph von Bleichenwang|Junker Christoph]] möchte abreisen, da [[Olivia|Olivia]] ihn nicht sehen möchte, doch [[Junker Tobias von Rülp|Junker Tobias]] überzeugt ihn, noch einen Monat zu bleiben.
 
 ## Graph
-<iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-1-scene-3" width=100% height=550 style="border: 0;"></iframe>
+<iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-1/act-1-scene-3-dark" width=100% height=550 style="border: 0;"></iframe>

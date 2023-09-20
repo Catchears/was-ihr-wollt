@@ -16,4 +16,4 @@ Ein Zimmer in [[Olivia]]s Haus.
 ## Handlung
 
 ## Graph
-<iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-4-scene-2" width=100% height=550 style="border: 0;"></iframe>
+<iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-4/act-4-scene-2-dark" width=100% height=550 style="border: 0;"></iframe>
