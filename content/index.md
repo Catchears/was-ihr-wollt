@@ -44,4 +44,5 @@ Alle Graphen beziehen sich auf das englische Original und nicht auf eine deutsch
 - sonstiges Gefolge
 
 ## Graph
+Dieser Graph ist [hier](https://catchears.github.io/was-ihr-wollt-graphs/was-ihr-wollt-white) genauso interaktiv in voller Auflösung zu finden.
 <iframe src="https://catchears.github.io/was-ihr-wollt-graphs/was-ihr-wollt-dark" width=100% height=550 style="border: 0;"></iframe>
