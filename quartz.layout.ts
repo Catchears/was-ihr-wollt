@@ -23,7 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.Explorer({
         mapFn: (node) => {
-          node.name = node.name
+          node.displayName = node.displayName
             .replace("act", "Akt")
             .replace("-", " ")
             .replace("figuren", "Figuren")
@@ -61,7 +61,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(
       Component.Explorer({
         mapFn: (node) => {
-          node.name = node.name
+          node.name = node.displayName = node.displayName
             .replace("act", "Akt")
             .replace("-", " ")
             .replace("figuren", "Figuren")

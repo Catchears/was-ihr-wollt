@@ -13,9 +13,9 @@ Ein Zimmer im Palast des Herzog [[Orsino]]s.
 - [[Valentin]]
 
 ## Handlung
-[[Valentin|Valentin]] lobt [[Viola|Cesario (Viola)]]: nach erst 3 Tagen würde der Herzog [[Orsino]] ihm schon viel anvertrauen.
+[[Valentin]] lobt [[Viola|Cesario (Viola)]]: nach erst 3 Tagen würde der Herzog [[Orsino]] ihm schon viel anvertrauen.
 
-[[Orsino]] bittet [[Viola|Cesario (Viola)]] zur Gräfin [[Olivia]] zu gehen und in seinem Namen um ihre Liebe zu werben. [[Viola|Cesario (Viola)]] ist skeptisch, da [[Olivia]] keine Männer sehen wollte, doch [[Orsino]] ist überzeugt, dass [[Viola|Cesario (Viola)]] Erfolg haben wird, denn 'alles an [ihm] ist nach Weibes Art'.
+[[Orsino]] bittet [[Viola|Cesario (Viola)]] zur Gräfin [[Olivia]] zu gehen und in seinem Namen um ihre Liebe zu werben. [[Viola|Cesario (Viola)]] ist skeptisch, da [[Olivia]] keinen einzigen Mann sehen wollte, doch [[Orsino]] ist überzeugt, dass [[Viola|Cesario (Viola)]] Erfolg haben wird, denn 'alles an [ihm] ist nach Weibes Art'.
 
 Zu sich selbst merkt [[Viola]] an, dass sie selbst gerne den Herzog heiraten würde.
 
