@@ -5,9 +5,7 @@ alias: Was Ihr Wollt
 [[index|Was Ihr Wollt]] ist ein Theaterstück von William Shakespeare.
 
 ## Hinweise zur Webseite
-Auf den meisten Seiten dieser Webseite ist unten ein Graph sichtbar, der zeigt, wer wann redet. Diese Graphen sind alle interaktiv - man kann leicht, indem man auf die Namensliste rechts clickt, bestimmte Rollen ausblenden. Das geht am PC am besten.
-
-Alle Graphen sind ungefähr 3 bis 4 MB groß.
+Auf den meisten Seiten dieser Webseite ist unten ein Graph sichtbar, der zeigt, wer wann redet. Diese Graphen sind alle interaktiv - man kann leicht, indem man auf die Namensliste klickt, bestimmte Rollen ausblenden. Das geht am PC am besten.
 
 Alle Graphen beziehen sich auf das englische Original und nicht auf eine deutsche Ausgabe.
 
