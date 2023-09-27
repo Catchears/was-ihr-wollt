@@ -24,7 +24,7 @@ Zuerst informiert [[Maria]], dann [[Malvolio]], [[Olivia]] über einen Jungen an
 
 [[Viola|Cesario (Viola)]] will eine Liebesrede vortragen, doch [[Olivia]] nutzt die Gelegenheit und stellt ihre eigenen Fragen, darunter auch welche zu [[Viola|Cesario (Viola)]] selbst. Letztendlich schickt [[Olivia]] ihn zurück nach Hause, mit der Nachricht, der Herzog [[Orsino]] habe keine weiteren Boten zu schicken – außer [[Viola|Cesario]].
 
-Als [[Viola|Cesario]] abgereist ist, gibt [[Olivia]] ihre Liebe für ihn zu und schickt [[Malvolio]] mit einem Ring (den [[Viola|Cesario (Viola)]] angeblich ‚vergessen‘ hat) hinter ihm her.
+Als [[Viola|Cesario]] abgereist ist, gibt [[Olivia]] ihre Liebe für ihn zu und schickt [[Malvolio]] mit einem Ring (den [[Viola|Cesario (Viola)]] angeblich 'vergessen' hat) hinter ihm her.
 
 ## Graph
 <iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-1/act-1-scene-5-dark" width=100% height=550 style="border: 0;"></iframe>
