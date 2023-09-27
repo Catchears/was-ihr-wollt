@@ -13,9 +13,9 @@ Ein Zimmer in [[Olivia]]s Haus.
 - [[Junker Christoph von Bleichenwang]]
 
 ## Handlung
-[[Maria]] erzählt [[Junker Tobias von Rülp|Tobias]], er habe sich etwas ordentlicher zu verhalten (er ist häufig, wie auch jetzt, betrunken); die [[Olivia|Gräfin Olivia]] habe sich schon über [[Junker Tobias von Rülp|ihn]] und [[Junker Christoph von Bleichenwang|Christoph]] beschwert.
+[[Maria]] erzählt [[Junker Tobias von Rülp|Junker Tobias]], er habe sich etwas ordentlicher zu verhalten (er ist häufig, wie auch jetzt, betrunken); die [[Olivia|Gräfin Olivia]] habe sich schon über [[Junker Tobias von Rülp|Junker Tobias]] und [[Junker Christoph von Bleichenwang|Junker Christoph]] beschwert.
 
-Daraufhin besteht [[Junker Tobias von Rülp|Tobias]] darauf, dass [[Junker Christoph von Bleichenwang|Christoph]] sowohl stark als auch intelligent und reich sei. Mitten im Gespräch taucht [[Junker Christoph von Bleichenwang|Junker Christoph]] selbst auf und versucht auf [[Junker Tobias von Rülp|Tobias]] Hinweis hin [[Maria]] anzumachen. Dies gelingt ihm gar nicht.
+Daraufhin besteht [[Junker Tobias von Rülp|Junker Tobias]] darauf, dass [[Junker Christoph von Bleichenwang|Junker Christoph]] sowohl stark als auch intelligent und reich sei. Mitten im Gespräch taucht [[Junker Christoph von Bleichenwang|Junker Christoph]] selbst auf und versucht auf [[Junker Tobias von Rülp|Junker Tobias]] Hinweis hin [[Maria]] anzumachen. Dies gelingt ihm gar nicht.
 
 [[Maria]] geht und [[Junker Christoph von Bleichenwang|Junker Christoph]] möchte nach Hause abreisen, da [[Olivia]] ihn nicht sehen möchte, doch [[Junker Tobias von Rülp|Junker Tobias]] überzeugt ihn, noch einen Monat zu bleiben.
 

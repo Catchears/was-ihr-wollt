@@ -1,3 +1,7 @@
+---
+alias: Junker Tobias
+---
+
 [[Olivia]]s Onkel; trinkt gerne.
 
 Wörter im Original: 2696
