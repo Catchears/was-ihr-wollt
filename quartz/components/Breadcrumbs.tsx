@@ -26,6 +26,7 @@ interface BreadcrumbOptions {
    * Wether to display breadcrumbs on root `index.md`
    */
   hideOnRoot: boolean
+  displayClass: boolean | undefined
 }
 
 const defaultOptions: BreadcrumbOptions = {
@@ -33,6 +34,7 @@ const defaultOptions: BreadcrumbOptions = {
   rootName: "Home",
   resolveFrontmatterTitle: false,
   hideOnRoot: true,
+  displayClass: undefined
 }
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
@@ -58,7 +60,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
   // Merge options with defaults
   const options: BreadcrumbOptions = { ...defaultOptions, ...opts }
 
-  function Breadcrumbs({ fileData, allFiles }: QuartzComponentProps) {
+  function Breadcrumbs({ fileData, displayClass, allFiles }: QuartzComponentProps) {
     // Hide crumbs on root if enabled
     if (options.hideOnRoot && fileData.slug === "index") {
       return <></>
@@ -106,7 +108,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       }
     }
     return (
-      <nav class="breadcrumb-container" aria-label="breadcrumbs">
+      <nav class={`breadcrumb-container ${displayClass}`} aria-label="breadcrumbs">
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
             <a href={crumb.path}>{crumb.displayName}</a>
