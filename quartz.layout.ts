@@ -22,6 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(
       Component.Explorer({
+        title: "Übersicht",
         mapFn: (node) => {
           node.displayName = node.displayName
             .replace("act", "Akt")
