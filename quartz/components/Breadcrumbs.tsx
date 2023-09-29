@@ -72,7 +72,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     const parts = fileData.filePath?.split("/")?.splice(1)
     if (parts) {
       // full path until current part
-      let current = ""
+      let currentSlug = ""
       for (let i = 0; i < parts.length - 1; i++) {
         const folderName = parts[i]
         let currentTitle = folderName
@@ -86,18 +86,21 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
             currentTitle = currentFile.frontmatter!.title
           }
         }
+        if (fileData.frontmatter!.title === currentTitle) {
+          continue // This avoids Was Ihr Wollt > Akt 1 > Akt 1
+        }
         // Add current path to full path
-        current += folderName + "/"
+        currentSlug += folderName + "/" + folderName + "-index"
 
         // Format and add current crumb
-        const crumb = formatCrumb(capitalize(currentTitle), fileData.slug!, current as SimpleSlug)
+        const crumb = formatCrumb(capitalize(currentTitle), fileData.slug!, currentSlug as SimpleSlug)
         crumbs.push(crumb)
       }
 
       // Add current file to crumb (can directly use frontmatter title)
       if (parts.length > 0) {
         crumbs.push({
-          displayName: capitalize(fileData.frontmatter!.title),
+          displayName: capitalize(fileData.frontmatter!.title.split(", ").pop()!),
           path: "",
         })
       }

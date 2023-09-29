@@ -12,11 +12,11 @@ Alle Graphen beziehen sich auf das englische Original und nicht auf eine deutsch
 [[Wörterzahlen|Hier]] findet man die Gesamtwörterzahlen für alle Figuren.
 
 ## Inhalt
-- [[act-1|Akt 1]]
-- [[act-2|Akt 2]]
-- [[act-3|Akt 3]]
-- [[act-4|Akt 4]]
-- [[act-5|Akt 5]]
+- [[act-1-index|Akt 1]]
+- [[act-2-index|Akt 2]]
+- [[act-3-index|Akt 3]]
+- [[act-4-index|Akt 4]]
+- [[act-5-index|Akt 5]]
 
 ## Figuren
 - [[Orsino]]
