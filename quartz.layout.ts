@@ -17,6 +17,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs({ rootName: "Was Ihr Wollt", resolveFrontmatterTitle: true }),
     Component.ArticleTitle(),
+    Component.NearbyScenes(),
     Component.TagList(),
   ],
   left: [
