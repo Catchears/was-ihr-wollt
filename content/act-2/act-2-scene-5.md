@@ -21,5 +21,10 @@ aliases:
 
 Er liest vor, er werde, um [[Olivia]] glücklich zu machen, gelbe Strümpfe, kreuzweise gebundene Kniegürtel und ein ständiges Lächeln tragen.
 
+> Götter, ich danke euch! Ich will lächeln, ich will alles tun, was du verlangst.
+> - [[Malvolio]]
+
+[[Junker Tobias von Rülp|Junker Tobias]] merkt an, er könnte [[Maria]] für diesen Streich heiraten.
+
 ## Graph
 <iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-2/act-2-scene-5-dark" width=100% height=550 style="border: 0;"></iframe>

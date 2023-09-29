@@ -13,9 +13,9 @@ Eine Straße.
 - Matrosen
 
 ## Handlung
-Der [[Schiffshauptmann]] hat mit [[Viola]] ein Schiffsunglück überlebt. [[Viola]] spricht mit dem [[Schiffshauptmann]] und behauptet, ihr Bruder [[Sebastian]] wäre beim Schiffsunglück gestorben. Er erzählt ihr, er habe gesehen, wie sich [[Sebastian]] an einen Mast gebunden hatte. 
+Der [[Schiffshauptmann]] hat mit [[Viola]] ein Schiffsunglück überlebt. [[Viola]] redet mit ihm und behauptet, ihr Bruder [[Sebastian]] wäre beim Schiffsunglück gestorben. Er erzählt ihr, er habe gesehen, wie sich [[Sebastian]] an einen Mast gebunden hatte. 
 
-[[Viola]] fragt auch, wer das Land regiert ([[Orsino]]). Der [[Schiffshauptmann]] erzählt daraufhin, [[Orsino]] liebe die Gräfin [[Olivia]], die jedoch keinen einzigen Mann sehen möchte.
+[[Viola]] fragt auch, wer das Land regiert. Der [[Schiffshauptmann]] antwortet, es sei der Herzog [[Orsino]] und erzählt daraufhin, [[Orsino]] liebe die Gräfin [[Olivia]], die jedoch aus Trauer keinen einzigen Mann sehen möchte.
 
 [[Viola]] möchte ihr dienen, doch dies wird ihr ausgeredet; stattdessen verkleidet sie sich als Mann als [[Viola|Cesario]] und will dem Herzog [[Orsino]] dienen.
 

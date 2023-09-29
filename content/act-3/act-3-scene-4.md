@@ -21,10 +21,12 @@ aliases:
 - Bedienter
 
 ## Handlung
-[[Olivia]] ruft nach [[Malvolio]]. Als er – mit gelben Strümpfen, kreuzweise gebundenen Kniegürteln und lächelnd – erscheint, denkt sie, es ginge ihm nicht gut und fragt:
-> Willst du nicht ins Bett gehen, Malvolio?
+[[Olivia]] ruft nach [[Malvolio]]. Als er – mit gelben Strümpfen, kreuzweise gebundenen Kniegürteln und lächelnd – erscheint, denkt sie, es ginge ihm nicht gut und fragt, ob er nicht schlafen möchte; [[Malvolio]] denkt, sie will mit ihm ins Bett gehen. 
 
-[[Malvolio]] denkt, sie will mit ihm ins Bett gehen. Ein Bedienter informiert Sie, dass [[Viola|Cesario (Viola)]] angekommen ist. [[Olivia]] lässt [[Junker Tobias von Rülp|Junker Tobias]] rufen, um auf [[Malvolio]] aufzupassen. [[Malvolio]] hingegen denkt, alles liefe bestens. Als [[Junker Tobias von Rülp|Junker Tobias]], [[Fabio]] und [[Maria]] auftauchen, behandeln sie ihn so, als wäre er vom Teufel besessen. [[Malvolio]] lässt sich das nicht gefallen und haut ab. Die anderen planen, ihn in eine dunkle Kammer zu sperren.
+> [[Olivia]]: Willst du nicht ins Bett gehen, Malvolio?  
+> [[Malvolio]]: Zu Bett? Ja, liebes Herz, und ich will zu dir kommen.
+
+Ein Bedienter informiert Sie, dass [[Viola|Cesario (Viola)]] angekommen ist. [[Olivia]] lässt [[Junker Tobias von Rülp|Junker Tobias]] rufen, um auf [[Malvolio]] aufzupassen. [[Malvolio]] hingegen denkt, alles liefe bestens. Als [[Junker Tobias von Rülp|Junker Tobias]], [[Fabio]] und [[Maria]] auftauchen, behandeln sie ihn so, als wäre er vom Teufel besessen. [[Malvolio]] lässt sich das nicht gefallen und haut ab. Die anderen planen, ihn in eine dunkle Kammer zu sperren.
 
 [[Junker Christoph von Bleichenwang|Junker Christoph]] tritt auf und gibt [[Junker Tobias von Rülp|Junker Tobias]] den Brief, mit dem er [[Viola|Cesario (Viola)]] zum Duell auffordern möchte. [[Junker Tobias von Rülp|Junker Tobias]] liest den Brief und beschließt, dass [[Viola|Cesario (Viola)]] erkennen würde, dass ein 'Pinsel' ihn geschrieben hat – deshalb würde er die Aufforderung mündlich weitergeben.
 
@@ -34,7 +36,7 @@ Währenddessen ist [[Junker Tobias von Rülp|Junker Tobias]] bei [[Junker Christ
 
 Genau diese Nachricht gibt er auch an [[Junker Christoph von Bleichenwang|Junker Christoph]] weiter: [[Viola|Cesario (Viola)]] würde nur ehrenhalber kämpfen wollen, hätte aber 'auf sein ritterliches Wort' versprochen, er würde ihm nicht wehtun.
 
-Sie ziehen beide ein Schwert, doch bevor sie beginnen können, erscheint [[Antonio]] und beschützt [[Viola|Cesario (Viola)]], da er ihn für [[Sebastian]] hält. Gerade dann kommen [[Erster Gerichtsdiener|beide]] [[Zweiter Gerichtsdiener|Gerichtsdiener]] an und verhaftet [[Antonio]] im Namen des [[Orsino|Herzogs]]. [[Antonio]] fragt [[Viola|Cesario (Viola)]] nach dem Geldbeutel, den er vor weniger Zeit [[Sebastian]] gegeben hat. [[Viola|Cesario (Viola)]], verwirrt, bietet ihm die Hälfe seines Geldes an, doch [[Antonio]] ist beleidigt, dass [[Viola|Cesario (Viola)]] so tut, als würde er ihn nicht kennen.
+Sie ziehen beide ein Schwert, doch bevor sie beginnen können, erscheint [[Antonio]] und beschützt [[Viola|Cesario (Viola)]], da er ihn für [[Sebastian]] hält. Gerade dann kommen [[Erster Gerichtsdiener|beide]] [[Zweiter Gerichtsdiener|Gerichtsdiener]] an und verhaftet [[Antonio]] im Namen des [[Orsino|Herzogs]]. [[Antonio]] fragt [[Viola|Cesario (Viola)]] nach dem Geldbeutel, den er vor einer halben Stunde [[Sebastian]] gegeben hat. [[Viola|Cesario (Viola)]], verwirrt, bietet ihm die Hälfe seines Geldes an, doch [[Antonio]] ist beleidigt, dass [[Viola|Cesario (Viola)]] so tut, als würde er ihn nicht kennen.
 
 [[Viola|Cesario (Viola)]] überlegt zum Schluss, ob ihr Bruder [[Sebastian]] vielleicht doch noch lebt.
 
