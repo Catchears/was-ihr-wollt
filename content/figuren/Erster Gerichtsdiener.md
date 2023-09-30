@@ -8,4 +8,4 @@ Wörter im Original: 100
 
 ## Graph
 [In groß](https://catchears.github.io/was-ihr-wollt-graphs/characters/Erster%20Gerichtsdiener-dark).
-<iframe src="https://catchears.github.io/was-ihr-wollt-graphs/characters/Erster%20Gerichtsdiener-dark" width=100% height=550 style="border: 0;"></iframe>
+<iframe src="https://catchears.github.io/was-ihr-wollt-graphs/characters/1.%20Gerichtsdiener-dark" width=100% height=550 style="border: 0;"></iframe>
