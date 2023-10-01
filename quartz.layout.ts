@@ -90,6 +90,31 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.DesktopOnly(
+      Component.Explorer({
+        title: "Übersicht",
+        mapFn: (node) => {
+          node.displayName = node.displayName
+            .replace("act", "Akt")
+            .replace("-", " ")
+            .replace("figuren", "Figuren")
+        },
+      }),
+    ),
   ],
-  right: [],
+  right: [
+    Component.MobileOnly(
+      Component.Explorer({
+        title: "Übersicht",
+        mapFn: (node) => {
+          node.displayName = node.displayName
+            .replace("act", "Akt")
+            .replace("-", " ")
+            .replace("figuren", "Figuren")
+        },
+      }),
+    ),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Backlinks()),
+  ],
 }
