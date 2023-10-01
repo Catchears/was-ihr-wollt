@@ -4,10 +4,12 @@ alias: Was Ihr Wollt
 ---
 [[index|Was Ihr Wollt]] ist ein Theaterstück von William Shakespeare.
 
+Hier geht's direkt zur ersten Szene: [[act-1-scene-1|Akt 1 Szene 1]].
 ## Hinweise zur Webseite
-Auf allen Seiten dieser Webseite ist unten ein Graph sichtbar, der zeigt, wer wann redet. Diese Graphen sind alle interaktiv – man kann leicht, indem man auf die Namensliste klickt, bestimmte Rollen ausblenden. Das geht am PC am besten.
-
 Alle Graphen und Daten beziehen sich auf Schlegels deutsche Übersetzung.
+
+### Layout
+<p class="mobile-only">Oben rechts kann man zwischen hell und dunkel wählen; ganz unten findet man auf allen Seiten eine Übersicht.</p><p class="desktop-only">Links vom Text findet man eine Übersicht aller Seiten, rechts ein Graph und eine Liste der Überschriften der aktuellen Seite.</p>
 
 ## Inhalt
 - [[act-1-index|Akt 1]]
@@ -40,6 +42,8 @@ Alle Graphen und Daten beziehen sich auf Schlegels deutsche Übersetzung.
 - sonstiges Gefolge
 
 ## Gesamtwörterzahlen
+<p class="mobile-only">Es lohnt sich meistens, sich die Graphen im Querformat anzugucken.</p>
+
 <iframe src="https://catchears.github.io/was-ihr-wollt-graphs/bars/bar-dark" id="graphiframe" width=100% height=550 style="border: 0"></iframe>
 
 ## Graph
