@@ -20,6 +20,7 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import NearbyScenes from "./NearbyScenes"
+import RedirectToIndex from "./RedirectToIndex"
 
 export {
   ArticleTitle,
@@ -44,4 +45,5 @@ export {
   NotFound,
   Breadcrumbs,
   NearbyScenes,
+  RedirectToIndex,
 }
