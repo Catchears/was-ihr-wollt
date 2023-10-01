@@ -1,15 +1,24 @@
-import { QuartzComponentConstructor } from "./types"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
-import { version } from "../../package.json"
 
 interface Options {
   links: Record<string, string>
 }
 
 export default ((opts?: Options) => {
-  function Footer() {
-    const year = new Date().getFullYear()
-    const links = opts?.links ?? []
+  function Footer({ fileData }: QuartzComponentProps) {
+    let links = opts?.links ?? []
+    console.log(fileData)
+
+    const slug = /.\/index/.test(fileData.slug!) ? fileData.slug?.substring(0, fileData.slug.indexOf("/index")) : `${fileData.slug}.md`
+
+    if (slug !== undefined) {
+      links = {
+        Quelltext: `https://github.com/Catchears/was-ihr-wollt/blob/main/content/${slug}`,
+        ...links
+      }
+    }
+
     return (
       <footer>
         <hr />

@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      Quelltext: "https://github.com/Catchears/was-ihr-wollt",
+      Quelle: "https://github.com/Catchears/was-ihr-wollt",
     },
   }),
 }
