@@ -148,8 +148,8 @@ async function startServing(
       await rimraf(argv.output)
       await emitContent(ctx, filteredContent)
       console.log(chalk.green(`Done rebuilding in ${perf.timeSince()}`))
-    } catch {
-      console.log(chalk.yellow(`Rebuild failed. Waiting on a change to fix the error...`))
+    } catch (err) {
+      console.log(chalk.yellow(`Rebuild failed. Waiting on a change to fix the error... ` + err))
     }
 
     clientRefresh()
