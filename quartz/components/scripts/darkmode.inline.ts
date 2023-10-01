@@ -11,7 +11,6 @@ document.addEventListener("nav", () => {
       document.documentElement.setAttribute("saved-theme", "light")
       localStorage.setItem("theme", "light")
     }
-    location.reload()
   }
 
   // Darkmode toggle
