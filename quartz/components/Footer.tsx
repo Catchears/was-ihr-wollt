@@ -8,7 +8,6 @@ interface Options {
 export default ((opts?: Options) => {
   function Footer({ fileData }: QuartzComponentProps) {
     let links = opts?.links ?? []
-    console.log(fileData)
 
     const slug = /.\/index/.test(fileData.slug!) ? fileData.slug?.substring(0, fileData.slug.indexOf("/index")) : `${fileData.slug}.md`
 
