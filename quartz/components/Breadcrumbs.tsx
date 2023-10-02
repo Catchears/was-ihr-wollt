@@ -60,7 +60,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
   // Merge options with defaults
   const options: BreadcrumbOptions = { ...defaultOptions, ...opts }
 
-  function Breadcrumbs({ fileData, displayClass, allFiles }: QuartzComponentProps) {
+  function Breadcrumbs({ fileData, allFiles, displayClass }: QuartzComponentProps) {
     // Hide crumbs on root if enabled
     if (options.hideOnRoot && fileData.slug === "index") {
       return <></>
@@ -108,7 +108,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       }
     }
     return (
-      <nav class={`breadcrumb-container ${displayClass}`} aria-label="breadcrumbs">
+      <nav class={`breadcrumb-container ${displayClass ?? ""}`} aria-label="breadcrumbs">
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
             <a href={crumb.path}>{crumb.displayName}</a>

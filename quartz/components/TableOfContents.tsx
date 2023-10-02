@@ -19,7 +19,7 @@ function TableOfContents({ fileData, displayClass }: QuartzComponentProps) {
   }
 
   return (
-    <div class={`toc ${displayClass}`}>
+    <div class={`toc ${displayClass ?? ""}`}>
       <button type="button" id="toc">
         <h3>Überschriften</h3>
         <svg

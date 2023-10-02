@@ -6,7 +6,7 @@ interface Options {
 }
 
 export default ((opts?: Options) => {
-  function Footer({ fileData }: QuartzComponentProps) {
+  function Footer({ fileData, displayClass }: QuartzComponentProps) {
     let links = opts?.links ?? []
 
     const slug = /.\/index/.test(fileData.slug!) ? fileData.slug?.substring(0, fileData.slug.indexOf("/index")) : `${fileData.slug}.md`
@@ -19,7 +19,7 @@ export default ((opts?: Options) => {
     }
 
     return (
-      <footer>
+      <footer class={`${displayClass ?? ""}`}>
         <hr />
         <ul>
           {Object.entries(links).map(([text, link]) => (
