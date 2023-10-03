@@ -16,7 +16,7 @@ Ein Zimmer in [[Olivia]]s Haus.
 ## Handlung
 [[Junker Christoph von Bleichenwang|Junker Christoph]] behauptet, [[Olivia]] wäre zu [[Viola|Cesario (Viola)]] netter gewesen, als sie es ihm gegenüber jeweils war – deshalb möchte er abreisen. [[Junker Tobias von Rülp|Junker Tobias]] und [[Fabio]] überzeugen ihn, stattdessen [[Viola|Cesario (Viola)]] mit einem Brief zu einem Duell aufzufordern.
 
-Zum Schluss erscheint [[Maria]] und erzählt, sie sollten dringend mitkommen und sich 'Seitenstiche lachen', denn [[Malvolio]] würde sich genaustens an die Vorgaben des [[act-2-scene-5#^a0e77a|Briefs]] halten.
+Zum Schluss erscheint [[Maria]] und erzählt, sie sollten dringend mitkommen und sich 'Seitenstiche lachen', denn [[Malvolio]] würde sich genaustens an die Vorgaben des [[act-2-scene-3#^669162|Briefs]] halten.
 
 ## Graph
 <iframe src="https://catchears.github.io/was-ihr-wollt-graphs/act-3/act-3-scene-2-dark" width=100% height=550 style="border: 0;"></iframe>

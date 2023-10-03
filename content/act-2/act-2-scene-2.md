@@ -16,7 +16,7 @@ Eine Straße.
 
 Als [[Malvolio]] weg ist, erkennt [[Viola|Cesario (Viola)]], dass [[Olivia]] ihn liebt.
 
-> Sie liebt mich, ja! [...]
+> Sie liebt mich, ja! [...]  
 > Was soll draus werden? Wenn ich Mann bin, muss  
 > Ich an der Liebe meines Herrn verzweifeln;  
 > Und wenn ich Weib bin: lieber Himmel, ach!  

@@ -18,9 +18,9 @@ Ein Zimmer in [[Olivia]]s Haus.
 ## Handlung
 [[Maria]] kritisiert die längere Abwesenheit des [[Narr|Narren]]. 
 
-[[Olivia]] tritt mit [[Malvolio]] auf und will den [[Narr]] weggeschafft haben, der es schafft, ihr ihre Narrheit zu beweisen und somit wieder ihre Gunst gewinnt.
+[[Olivia]] tritt mit [[Malvolio]] auf und will den [[Narr]] weggeschafft haben. Dieser schafft es aber, ihr ihre 'Narrheit' zu beweisen und gewinnt somit wieder ihre Gunst. [[Malvolio]] beleidigt ihn stattdessen.
 
-Zuerst informiert [[Maria]], dann [[Malvolio]], [[Olivia]] über einen Jungen an der Tür ([[Viola|Cesario (Viola)]]), der dringend mit ihr sprechen möchte. Nachdem [[Malvolio]] ihn beschreibt, beschließt sie, ihn mit einem Schleier zu hören.
+[[Maria]] informiert [[Olivia]] über einen Jungen an der Tür ([[Viola|Cesario (Viola)]]), der dringend mit ihr sprechen möchte. Nachdem [[Malvolio]] erzählt, er weigere sich zu gehen und ihn beschreibt, beschließt sie, ihn mit einem Schleier zu hören.
 
 [[Viola|Cesario (Viola)]] will eine vorbereitete Rede vortragen, doch [[Olivia]] nutzt die Gelegenheit und stellt ihre eigenen Fragen, darunter auch welche zu [[Viola|Cesario (Viola)]] selbst. Letztendlich schickt [[Olivia]] ihn zurück nach Hause, mit der Nachricht, der Herzog [[Orsino]] habe keine weiteren Boten zu schicken – außer um zu melden, wie er ihre Nachricht verträgt.
 

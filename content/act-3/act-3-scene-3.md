@@ -12,7 +12,7 @@ Eine Straße.
 - [[Antonio]]
 
 ## Handlung
-[[Antonio]] holt [[Sebastian]] ein. [[Sebastian]] möchte mit ihm die Altertümer der Stadt besichtigen gehen, doch [[Antonio]] gibt zu, dass er im Seekrieg gegen den Herzog [[Orsino]] gekämpft hat und deshalb in der Öffentlichkeit in Gefahr ist. 
+[[Antonio]] holt [[Sebastian]] ein. [[Sebastian]] möchte mit ihm die 'Altertümer der Stadt' besichtigen gehen, doch [[Antonio]] gibt zu, dass er im Seekrieg gegen den Herzog [[Orsino]] gekämpft hat und deshalb in der Öffentlichkeit in Gefahr ist. 
 
 [[Sebastian]] gibt [[Antonio]] seinen Geldbeutel und sie vereinbaren, sich in einer Stunde im Elefanten zu treffen.
 

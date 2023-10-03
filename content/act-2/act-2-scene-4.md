@@ -18,7 +18,7 @@ Ein Zimmer im Palast des Herzog [[Orsino]]s.
 
 Im Laufe des Gesprächs wird allen Zuhörern, jedoch nicht [[Orsino]], klar, dass [[Viola|Cesario (Viola)]] über [[Orsino]] redet.
 
-Der [[Narr]] singt ein Liebeslied, dann schickt [[Orsino]] [[Viola|Cesario (Viola)]] wieder zur Gräfin [[Olivia]]. [[Viola|Cesario (Viola)]] erinnert, dass sie nichts weiter von ihm hören wollte und versucht zu argumentieren, dass wenn es eine Frau gäbe, die [[Orsino]] so liebt, wie er [[Olivia]] liebt und er ihr sagen würde, er liebe sie nicht – müsste sie das dann nicht akzeptieren?
+Der [[Narr]] singt ein Liebeslied, dann schickt [[Orsino]] [[Viola|Cesario (Viola)]] wieder zur Gräfin [[Olivia]]. [[Viola|Cesario (Viola)]] erinnert ihr daran, dass sie nichts weiter von ihm hören wollte und versucht zu argumentieren, dass wenn es eine Frau gäbe, die [[Orsino]] so liebt, wie er [[Olivia]] liebt und er ihr sagen würde, er liebe sie nicht – müsste sie das dann nicht akzeptieren?
 
 > Denkt Euch, ein Mädchen, wie's vielleicht eins gibt,  
 > Fühl' eben solche Herzenspein um Euch  

@@ -21,7 +21,7 @@ aliases:
 - Bedienter
 
 ## Handlung
-[[Olivia]] ruft nach [[Malvolio]]. Als er – mit gelben Strümpfen, kreuzweise gebundenen Kniegürteln und lächelnd – erscheint, denkt sie, es ginge ihm nicht gut und fragt, ob er nicht schlafen möchte; [[Malvolio]] denkt, sie will mit ihm ins Bett gehen. 
+[[Olivia]] ruft nach [[Malvolio]]. Als er – mit gelben Strümpfen, kreuzweise gebundenen Kniegürteln und lächelnd – erscheint, denkt sie, es ginge ihm nicht gut und fragt, ob er nicht schlafen möchte; [[Malvolio]] denkt, sie will mit ihm ins Bett gehen:
 
 > [[Olivia]]: Willst du nicht ins Bett gehen, Malvolio?  
 > [[Malvolio]]: Zu Bett? Ja, liebes Herz, und ich will zu dir kommen.
@@ -32,7 +32,7 @@ Ein Bedienter informiert Sie, dass [[Viola|Cesario (Viola)]] angekommen ist. [[O
 
 [[Olivia]] bringt [[Viola|Cesario (Viola)]] auf die Bühne und versucht weiterhin, seine Liebe zu gewinnen, dann geht sie wieder. [[Junker Tobias von Rülp|Junker Tobias]] erzählt [[Viola|Cesario (Viola)]], dass 'ein rechter Teufel in Zweikämpfen' 'auf Leben und Tod gegen [ihn] erbost ist' – [[Viola|Cesario (Viola)]] argumentiert, er habe keinem etwas getan und geht mit [[Fabio]] [[Junker Christoph von Bleichenwang|Junker Christoph]] suchen, um eine friedliche Lösung zu finden.
 
-Währenddessen ist [[Junker Tobias von Rülp|Junker Tobias]] bei [[Junker Christoph von Bleichenwang|Junker Christoph]] und erzählt ihm, wie unglaublich gut [[Viola|Cesario (Viola)]] gegen ihn gekämpft haben soll. [[Junker Christoph von Bleichenwang|Junker Christoph]] möchte seine Aufforderung zurückziehen und [[Viola|Cesario (Viola)]] zur Streitschlichtung sein Pferd anbieten. [[Junker Tobias von Rülp|Junker Tobias]] merkt für sich selbst an, dass er das Pferd auch gerne hätte und gibt an [[Viola|Cesario (Viola)]] weiter, dass [[Junker Christoph von Bleichenwang|Junker Christoph]] zwar aus Ehre seine Aufforderung nicht zurückziehen möchte, jedoch versprochen hätte, ihm nicht wehzutun.
+Währenddessen ist [[Junker Tobias von Rülp|Junker Tobias]] bei [[Junker Christoph von Bleichenwang|Junker Christoph]] und erzählt ihm, wie unglaublich gut [[Viola|Cesario (Viola)]] gegen [[Junker Tobias von Rülp|ihn]] gekämpft haben soll. [[Junker Christoph von Bleichenwang|Junker Christoph]] möchte seine Aufforderung zurückziehen und [[Viola|Cesario (Viola)]] zur Streitschlichtung sein Pferd anbieten. [[Junker Tobias von Rülp|Junker Tobias]] merkt für sich selbst an, dass er das Pferd auch gerne hätte und gibt an [[Viola|Cesario (Viola)]] weiter, dass [[Junker Christoph von Bleichenwang|Junker Christoph]] zwar aus Ehre seine Aufforderung nicht zurückziehen möchte, jedoch versprochen hätte, ihm nicht wehzutun.
 
 Genau diese Nachricht gibt er auch an [[Junker Christoph von Bleichenwang|Junker Christoph]] weiter: [[Viola|Cesario (Viola)]] würde nur ehrenhalber kämpfen wollen, hätte aber 'auf sein ritterliches Wort' versprochen, er würde ihm nicht wehtun.
 

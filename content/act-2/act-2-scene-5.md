@@ -15,7 +15,7 @@ aliases:
 - [[Fabio]]
 
 ## Handlung
-[[Maria]] wirft den Liebesbrief für [[Malvolio]] auf den Boden und [[Junker Tobias von Rülp|Junker Tobias]], [[Junker Christoph von Bleichenwang|Junker Christoph]] und [[Fabio]] verstecken sich.
+[[Maria]] wirft den [[act-2-scene-3#^669162|Liebesbrief]] für [[Malvolio]] auf den Boden und [[Junker Tobias von Rülp|Junker Tobias]], [[Junker Christoph von Bleichenwang|Junker Christoph]] und [[Fabio]] verstecken sich.
 
 [[Malvolio]] tritt auf und erzählt laut über seine Liebesfantasien mit [[Olivia]]. Er findet den Brief und zweifelt nicht daran, dass er von ihr an ihn ist.
 
