@@ -1,5 +1,6 @@
 ---
 title: Akt 1
+description: Wir lernen die Hintergrundgeschichten der Hauptcharaktere kennen.
 aliases:
   - Akt 1
   - 1. Akt

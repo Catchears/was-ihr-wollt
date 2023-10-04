@@ -1,3 +1,6 @@
+---
+description: Gerichtsdiener.
+---
 Der Bruder von [[Viola]].
 
 Gesamtwörterzahl: 933

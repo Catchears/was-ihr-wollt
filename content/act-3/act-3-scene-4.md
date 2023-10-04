@@ -1,5 +1,6 @@
 ---
 title: Akt 3, Szene 4
+description: Es kommt gerade nicht zu einem Duell zwischen Cesario und Junker Christoph.
 aliases:
   - Akt 3 Szene 4
   - 3. Akt 4. Szene

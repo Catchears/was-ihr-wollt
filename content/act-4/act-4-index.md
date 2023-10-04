@@ -1,5 +1,6 @@
 ---
 title: Akt 4
+description: Sebastian trifft die Hauptcharaktere; Olivia heiratet Sebastian.
 aliases:
   - Akt 4
   - 4. Akt

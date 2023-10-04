@@ -1,5 +1,6 @@
 ---
 title: Akt 2, Szene 2
+description: Malvolio spricht mit Viola.
 aliases:
   - Akt 2 Szene 2
   - 2. Akt 2. Szene

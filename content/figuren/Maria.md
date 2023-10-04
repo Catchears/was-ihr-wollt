@@ -1,3 +1,6 @@
+---
+description: Gerichtsdiener.
+---
 Dienerin bei [[Olivia]]; plant Streich für [[Malvolio]].
 
 Gesamtwörterzahl: 1233

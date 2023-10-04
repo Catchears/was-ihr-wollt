@@ -1,5 +1,6 @@
 ---
 title: Akt 1, Szene 3
+description: Junker Tobias stellt Junker Christoph Maria vor.
 aliases:
   - Akt 1 Szene 3
   - 1. Akt 3. Szene

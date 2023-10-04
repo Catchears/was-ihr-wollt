@@ -1,5 +1,6 @@
 ---
 title: Akt 4, Szene 2
+description: Der Narr verwirrt Malvolio als Pfarrer.
 aliases:
   - Akt 4 Szene 2
   - 4. Akt 2. Szene

@@ -1,5 +1,6 @@
 ---
 title: Akt 4, Szene 3
+description: Olivia bittet Sebastian, sie zu heiraten.
 aliases:
   - Akt 4 Szene 3
   - 4. Akt 3. Szene

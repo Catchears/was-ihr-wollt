@@ -1,5 +1,6 @@
 ---
 title: Akt 1, Szene 5
+description: Olivia hört Cesario und gibt ihre Liebe für ihn zu.
 aliases:
   - Akt 1 Szene 5
   - 1. Akt 5. Szene

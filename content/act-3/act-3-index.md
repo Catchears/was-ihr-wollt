@@ -1,5 +1,6 @@
 ---
 title: Akt 3
+description: Die Nebenhandlungen verbinden sich langsam mit der Haupthandlung.
 aliases:
   - Akt 3
   - 3. Akt

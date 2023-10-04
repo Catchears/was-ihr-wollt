@@ -1,5 +1,6 @@
 ---
 title: Akt 4, Szene 1
+description: Sebastian trifft auf die Junker und Olivia.
 aliases:
   - Akt 4 Szene 1
   - 4. Akt 1. Szene

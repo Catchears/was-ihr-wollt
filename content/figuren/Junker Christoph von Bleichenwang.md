@@ -1,7 +1,8 @@
 ---
 alias: Junker Christoph
+description: Ein Junker, der viel von sich selbst hält, aber nicht ganz so klug ist.
 ---
-Ein Junker, der viel von sich selbst hält, jedoch nicht ganz so klug ist.
+Ein Junker, der viel von sich selbst hält, aber nicht ganz so klug ist.
 
 Gesamtwörterzahl: 1263
 

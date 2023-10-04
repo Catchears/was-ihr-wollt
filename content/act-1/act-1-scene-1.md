@@ -1,5 +1,6 @@
 ---
 title: Akt 1, Szene 1
+description: Herzog Orsino philosophiert über die Gräfin Olivia.
 aliases:
   - Akt 1 Szene 1
   - 1. Akt 1. Szene

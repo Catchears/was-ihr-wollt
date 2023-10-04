@@ -1,4 +1,7 @@
-Kavalier von [[Orsino]].
+---
+description: Ein Kavalier von Orsino.
+---
+Ein Kavalier von [[Orsino]].
 
 Gesamtwörterzahl: 41
 

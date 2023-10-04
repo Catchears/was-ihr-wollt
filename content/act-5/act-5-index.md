@@ -1,5 +1,6 @@
 ---
 title: Akt 5
+description: Alle offenen Fragen werden aufgeklärt. Gutes Ende.
 aliases:
   - Akt 5
   - 5. Akt

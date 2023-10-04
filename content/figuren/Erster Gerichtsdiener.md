@@ -1,4 +1,7 @@
-Gerichtsdiener.
+---
+description: Ein Gerichtsdiener.
+---
+Ein Gerichtsdiener.
 
 Gesamtwörterzahl: 92
 

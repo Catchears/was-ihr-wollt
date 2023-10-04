@@ -1,5 +1,6 @@
 ---
 title: Akt 2
+description: Sebastian wird vorgestellt; der Streich für Malvolio wird aufgebaut.
 aliases:
   - Akt 2
   - 2. Akt

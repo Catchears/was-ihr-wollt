@@ -1,5 +1,6 @@
 ---
 title: Akt 2, Szene 3
+description: Die Junker singen betrunken. Maria plant mit ihnen den Streich für Malviolo.
 aliases:
   - Akt 2 Szene 3
   - 2. Akt 3. Szene

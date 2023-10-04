@@ -1,5 +1,6 @@
 ---
 title: Akt 2, Szene 1
+description: Sebastian reist zum Herzog Orsino.
 aliases:
   - Akt 2 Szene 1
   - 2. Akt 1. Szene

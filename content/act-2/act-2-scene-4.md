@@ -1,5 +1,6 @@
 ---
 title: Akt 2, Szene 4
+description: Olivia redet mit dem Herzog Orsino über Liebe.
 aliases:
   - Akt 2 Szene 4
   - 2. Akt 4. Szene

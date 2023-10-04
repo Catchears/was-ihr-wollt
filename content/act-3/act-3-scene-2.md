@@ -1,5 +1,6 @@
 ---
 title: Akt 3, Szene 2
+description: Junker Christoph beschließt, Cesario zu einem Duell aufzufordern.
 aliases:
   - Akt 3 Szene 2
   - 3. Akt 2. Szene

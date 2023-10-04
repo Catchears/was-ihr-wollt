@@ -1,4 +1,7 @@
-Seefahrer; enger Freund von [[Sebastian]].
+---
+description: Ein Seefahrer und enger Freund von Sebastian.
+---
+Ein Seefahrer und enger Freund von [[Sebastian]].
 
 Gesamtwörterzahl: 758
 

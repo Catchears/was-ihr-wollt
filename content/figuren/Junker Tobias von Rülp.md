@@ -1,5 +1,6 @@
 ---
 alias: Junker Tobias
+description: Olivias Onkel; trinkt gerne.
 ---
 [[Olivia]]s Onkel; trinkt gerne.
 

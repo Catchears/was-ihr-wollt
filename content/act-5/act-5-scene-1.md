@@ -1,5 +1,6 @@
 ---
 title: Akt 5, Szene 1
+description: Alle offenen Fragen werden aufgeklärt. Gutes Ende.
 aliases:
   - Akt 5 Szene 1
   - 5. Akt 1. Szene

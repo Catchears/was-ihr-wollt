@@ -1,5 +1,6 @@
 ---
 title: Akt 2, Szene 5
+description: Malvolio entdeckt den Brief von Maria.
 aliases:
   - Akt 2 Szene 5
   - 2. Akt 5. Szene

@@ -1,5 +1,6 @@
 ---
 title: Akt 3, Szene 3
+description: Antonio und Sebastian kommen an.
 aliases:
   - Akt 3 Szene 3
   - 3. Akt 3. Szene

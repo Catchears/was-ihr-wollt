@@ -1,6 +1,7 @@
 ---
 title: Was Ihr Wollt
 alias: Was Ihr Wollt
+description: Eine Zusammenfassung des Theaterstücks Was Ihr Wollt von William Shakespeare.
 ---
 [[index|Was Ihr Wollt]] ist ein Theaterstück von William Shakespeare.
 

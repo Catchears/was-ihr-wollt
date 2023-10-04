@@ -1,3 +1,6 @@
+---
+description: Freund der Junker.
+---
 Freund von [[Junker Tobias von Rülp]].
 
 Gesamtwörterzahl: 816

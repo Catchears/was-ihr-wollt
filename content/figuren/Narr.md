@@ -1,3 +1,6 @@
+---
+description: Gerichtsdiener.
+---
 Ein Narr.
 
 Gesamtwörterzahl: 2440

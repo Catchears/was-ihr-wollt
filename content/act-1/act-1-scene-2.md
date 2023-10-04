@@ -1,5 +1,6 @@
 ---
 title: Akt 1, Szene 2
+description: Viola bespricht ihre Pläne mit einem Schiffshauptmann.
 aliases:
   - Akt 1 Szene 2
   - 1. Akt 2. Szene
