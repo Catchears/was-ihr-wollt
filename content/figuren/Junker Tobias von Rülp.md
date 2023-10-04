@@ -1,10 +1,9 @@
 ---
 alias: Junker Tobias
 ---
-
 [[Olivia]]s Onkel; trinkt gerne.
 
-Wörter im Original: 2696
+Gesamtwörterzahl: 2784
 
 ## Szenen
 - [[act-1-scene-3|Akt 1 Szene 3]]

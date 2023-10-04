@@ -1,6 +1,6 @@
 Der Bruder von [[Viola]].
 
-Wörter im Original: 1007
+Gesamtwörterzahl: 933
 
 ## Szenen
 - [[act-2-scene-1|Akt 2 Szene 1]]

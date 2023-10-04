@@ -1,6 +1,6 @@
 Eine Gräfin; liebt [[Viola|Cesario (Viola)]].
 
-Wörter im Original: 2329
+Gesamtwörterzahl: 2291
 
 ## Szenen
 - [[act-1-scene-5|Akt 1 Szene 5]]

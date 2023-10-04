@@ -1,6 +1,6 @@
 Gerichtsdiener.
 
-Wörter im Original: 100
+Gesamtwörterzahl: 92
 
 ## Szenen
 - [[act-3-scene-4|Akt 3 Szene 4]]

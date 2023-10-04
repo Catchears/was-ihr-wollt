@@ -1,6 +1,6 @@
 Ein Narr.
 
-Wörter im Original: 2446
+Gesamtwörterzahl: 2440
 
 ## Szenen
 - [[act-1-scene-5|Akt 1 Szene 5]]

@@ -1,6 +1,6 @@
 Seefahrer; enger Freund von [[Sebastian]].
 
-Wörter im Original: 804
+Gesamtwörterzahl: 758
 
 ## Szenen
 - [[act-2-scene-1|Akt 2 Szene 1]]

@@ -1,6 +1,6 @@
 Freund von [[Junker Tobias von Rülp]].
 
-Wörter im Original: 864
+Gesamtwörterzahl: 816
 
 ## Szenen
 - [[act-2-scene-5|Akt 2 Szene 5]]

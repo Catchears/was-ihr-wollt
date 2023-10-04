@@ -4,7 +4,7 @@ aliases:
 ---
 Schwester von [[Sebastian]]; verkleidet sich als [[Viola|Cesario (Viola)]].
 
-Wörter im Original: 2595
+Gesamtwörterzahl: 2539
 
 ## Szenen
 - [[act-1-scene-2|Akt 1 Szene 2]]

@@ -1,6 +1,6 @@
 Haushofmeister von [[Olivia]]; wird von [[Maria]] und [[Junker Tobias von Rülp]] reingelegt.
 
-Wörter im Original: 2214
+Gesamtwörterzahl: 2302
 
 ## Szenen
 - [[act-1-scene-5|Akt 1 Szene 5]]

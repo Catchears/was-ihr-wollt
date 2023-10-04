@@ -1,6 +1,6 @@
 Rettet [[Viola]] nach einem Schiffsunglück.
 
-Wörter im Original: 239
+Gesamtwörterzahl: 222
 
 ## Szenen
 - [[act-1-scene-2|Akt 1 Szene 2]]

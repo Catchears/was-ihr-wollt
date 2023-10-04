@@ -1,6 +1,6 @@
 Ein Herzog; liebt [[Olivia]].
 
-Wörter im Original: 1611
+Gesamtwörterzahl: 1501
 
 ## Szenen
 - [[act-1-scene-1|Akt 1 Szene 1]]

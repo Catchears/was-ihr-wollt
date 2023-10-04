@@ -1,11 +1,9 @@
 ---
 alias: Junker Christoph
 ---
-
-
 Ein Junker, der viel von sich selbst hält, jedoch nicht ganz so klug ist.
 
-Wörter im Original: 1163
+Gesamtwörterzahl: 1263
 
 ## Szenen
 - [[act-1-scene-3|Akt 1 Szene 3]]

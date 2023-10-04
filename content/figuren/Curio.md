@@ -1,6 +1,6 @@
 Kavalier von [[Orsino]].
 
-Wörter im Original: 41
+Gesamtwörterzahl: 41
 
 ## Szenen
 - [[act-1-scene-1|Akt 1 Szene 1]]

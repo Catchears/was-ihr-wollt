@@ -1,6 +1,6 @@
 Verheiratet [[Olivia]] und [[Sebastian]].
 
-Wörter im Original: 57
+Gesamtwörterzahl: 51
 
 ## Szenen
 - [[act-5-scene-1|Akt 5 Szene 1]]

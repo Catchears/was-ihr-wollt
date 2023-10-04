@@ -1,6 +1,6 @@
 Dienerin bei [[Olivia]]; plant Streich für [[Malvolio]].
 
-Wörter im Original: 1219
+Gesamtwörterzahl: 1233
 
 ## Szenen
 - [[act-1-scene-3|Akt 1 Szene 3]]
