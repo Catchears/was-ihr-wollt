@@ -3,7 +3,7 @@ description: Gerichtsdiener.
 ---
 Ein Herzog; liebt [[Olivia]].
 
-Gesamtwörterzahl: 1501
+Gesamtwörterzahl: 1499
 
 ## Szenen
 - [[act-1-scene-1|Akt 1 Szene 1]]

@@ -4,7 +4,7 @@ description: Ein Junker, der viel von sich selbst hält, aber nicht ganz so klug
 ---
 Ein Junker, der viel von sich selbst hält, aber nicht ganz so klug ist.
 
-Gesamtwörterzahl: 1263
+Gesamtwörterzahl: 1254
 
 ## Szenen
 - [[act-1-scene-3|Akt 1 Szene 3]]

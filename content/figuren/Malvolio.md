@@ -3,7 +3,7 @@ description: Haushofmeister von Olivia; wird von Maria und Junker Tobias von Rü
 ---
 Haushofmeister von [[Olivia]]; wird von [[Maria]] und [[Junker Tobias von Rülp]] reingelegt.
 
-Gesamtwörterzahl: 2302
+Gesamtwörterzahl: 2294
 
 ## Szenen
 - [[act-1-scene-5|Akt 1 Szene 5]]

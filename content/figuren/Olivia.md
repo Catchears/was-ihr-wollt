@@ -3,7 +3,7 @@ description: Gerichtsdiener.
 ---
 Eine Gräfin; liebt [[Viola|Cesario (Viola)]].
 
-Gesamtwörterzahl: 2291
+Gesamtwörterzahl: 2251
 
 ## Szenen
 - [[act-1-scene-5|Akt 1 Szene 5]]

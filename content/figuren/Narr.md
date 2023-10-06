@@ -3,7 +3,7 @@ description: Gerichtsdiener.
 ---
 Ein Narr.
 
-Gesamtwörterzahl: 2440
+Gesamtwörterzahl: 2432
 
 ## Szenen
 - [[act-1-scene-5|Akt 1 Szene 5]]
