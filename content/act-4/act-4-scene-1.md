@@ -18,7 +18,7 @@ Die Straße vor [[Olivia]]s Haus.
 ## Handlung
 Der [[Narr]] ist von [[Olivia]] geschickt worden, um [[Viola|Cesario (Viola)]] zu finden. Stattdessen trifft er [[Sebastian]], der behauptet, ihn nicht zu kennen.
 
-[[Junker Tobias von Rülp|Junker Tobias]], [[Junker Christoph von Bleichenwang|Junker Christoph]] und [[Fabio]] kommen dazu. [[Junker Christoph von Bleichenwang|Junker Christoph]], der denkt, dass [[Sebastian]] [[Viola|Cesario (Viola)]] ist, schlägt ihn; [[Sebastian]] schlägt mehrfach zurück. [[Sebastian]] und [[Junker Tobias von Rülp|Junker Tobias]] ziehen beide Degen und wollen kämpfen, doch [[Olivia]] kommt und schickt [[Junker Tobias von Rülp|Junker Tobias]] und Co weg. Sie bittet [[Sebastian]] in ihr Haus. [[Sebastian]] versteht gar nicht mehr, was passiert und sagt:
+[[Junker Tobias von Rülp|Junker Tobias]], [[Junker Christoph von Bleichenwang|Junker Christoph]] und [[Fabio]] kommen dazu. [[Junker Christoph von Bleichenwang|Junker Christoph]], der denkt, dass [[Sebastian]] [[Viola|Cesario (Viola)]] ist, schlägt ihn; [[Sebastian]] schlägt mehrfach zurück. [[Sebastian]] und [[Junker Tobias von Rülp|Junker Tobias]] ziehen beide Degen und wollen kämpfen, doch [[Olivia]] kommt und schickt die anderen weg. Sie bittet [[Sebastian]] in ihr Haus. [[Sebastian]] versteht gar nicht mehr, was passiert und sagt:
 
 > Soll ich so träumen; gern erwach ich nie.
 > - [[Sebastian]]
