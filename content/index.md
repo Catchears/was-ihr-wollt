@@ -12,6 +12,9 @@ Alle Graphen und Daten beziehen sich auf Schlegels deutsche Übersetzung.
 ### Layout
 <p class="mobile-only">Oben rechts kann man zwischen hell und dunkel wählen; ganz unten findet man auf allen Seiten eine Übersicht.</p><p class="desktop-only">Links vom Text findet man eine Übersicht aller Seiten, rechts ein Graph und eine Liste der Überschriften der aktuellen Seite.</p>
 
+## Szenensuche
+Unter [[scene-finder|Vorspielszene]] kannst du bis zu drei Figuren abgeben, die in einer Szene vorkommen sollen.
+
 ## Inhalt
 - [[act-1-index|Akt 1]]
 - [[act-2-index|Akt 2]]

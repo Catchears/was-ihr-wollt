@@ -1,0 +1,52 @@
+.character-select {
+  border: 0;
+  background: var(--lightgray);
+  border-radius: 4px;
+  height: 1.5rem;
+  font-family: var(--bodyFont);
+  color: var(--darkgray);
+}
+
+.character-search-button {
+  margin: 4px;
+  border: 0;
+  background: var(--lightgray);
+  border-radius: 4px;
+  height: 1.5rem;
+  font-family: var(--bodyFont);
+  color: var(--darkgray);
+  width: 60px;
+}
+
+.scrollable-element-list {
+  overflow: auto;
+  width: 95%;
+  max-height: 65vh;
+  border: var(--darkgray);
+  border-radius: 8px;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 16px;
+}
+
+.scrollable-element {
+  margin: 8px;
+}
+
+.scrollable-element > h2 {
+  margin: 8px;
+}
+
+.scrollable-element > p {
+  margin: 8px;
+}
+
+.scrollable-element > hr {
+  background-color: var(--darkgray);
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.hidden {
+  display: none !important;
+}
