@@ -7,26 +7,6 @@
   color: var(--darkgray);
 }
 
-#character-search-button {
-  margin: 4px;
-  border: 0;
-  background: var(--lightgray);
-  border-radius: 4px;
-  height: 1.5rem;
-  font-family: var(--bodyFont);
-  color: var(--darkgray);
-  transition-duration: 0.2s;
-  width: 60px;
-}
-
-#character-search-button:hover {
-  transition-duration: 0.2s;
-  color: var(--tertiary);
-}
-#character-search-button:active {
-  background-color: var(--gray);
-}
-
 .scrollable-element-list {
   overflow: auto;
   width: 95%;

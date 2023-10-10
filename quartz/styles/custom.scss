@@ -2,3 +2,24 @@
 #explorer-content > #explorer-ul {
   max-height: calc(90vh - 400px);
 }
+
+button {
+  margin: 4px;
+  border: 0;
+  background: var(--lightgray);
+  border-radius: 4px;
+  height: 1.5rem;
+  font-family: var(--bodyFont);
+  color: var(--darkgray);
+  transition-duration: 0.2s;
+  width: fit-content;
+}
+
+button:hover {
+  transition-duration: 0.2s;
+  color: var(--tertiary);
+}
+
+button:active {
+  background-color: var(--gray);
+}
