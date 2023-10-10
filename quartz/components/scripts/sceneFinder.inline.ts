@@ -6,6 +6,7 @@ try {
       return response.json()
     },
     (response) => {
+      console.warn("wasn't able to load stage presence data!")
       return undefined
     },
   )
