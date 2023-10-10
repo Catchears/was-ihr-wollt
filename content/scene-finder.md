@@ -69,12 +69,12 @@ Wähle bis zu drei Figuren, die in einer Szene vorkommen sollten:
     <option value=17>Sebastian</option>
     <option value=18>Valentin</option>
     <option value=19>Viola</option>
-</select><button type="submit" class="character-search-button" id="character-search-button" onclick="buttonPressedCallback();">Suchen</button>
+</select><button type="submit" class="custom-button" id="character-search-button" onclick="buttonPressedCallback();">Suchen</button>
 
 Jedes mal, wo eine Figur die Bühne betritt oder verlässt beginnt ein neuer Eintrag.
 
 <div class="scrollable-element-list hidden" id="character-search-results"></div>
 
 <div id="reload-warning">
-Wenn der Knopf nicht funktioniert, lade bitte die Seite neu: <button onClick="window.location.href=window.location.href">Neuladen</button>
+Wenn der Knopf nicht funktioniert, lade bitte die Seite neu: <button class="custom-button" onClick="window.location.href=window.location.href">Neuladen</button>
 </div>

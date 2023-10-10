@@ -3,7 +3,7 @@
   max-height: calc(90vh - 400px);
 }
 
-button {
+.custom-button {
   margin: 4px;
   border: 0;
   background: var(--lightgray);
@@ -15,11 +15,11 @@ button {
   width: fit-content;
 }
 
-button:hover {
+.custom-button:hover {
   transition-duration: 0.2s;
   color: var(--tertiary);
 }
 
-button:active {
+.custom-button:active {
   background-color: var(--gray);
 }
