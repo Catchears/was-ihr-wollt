@@ -9,11 +9,14 @@ export default ((opts?: Options) => {
   function Footer({ fileData, displayClass }: QuartzComponentProps) {
     let links = opts?.links ?? []
 
-    const slug = /.\/index/.test(fileData.slug!) ? fileData.slug?.substring(0, fileData.slug.indexOf("/index")) : `${fileData.slug}.md`
+    let slug = /.\/index/.test(fileData.slug!) ? fileData.slug?.substring(0, fileData.slug.indexOf("/index")) : `${fileData.slug}.md`
 
     if (slug !== undefined) {
+      if (slug.includes("figuren")) {
+        slug = slug.replaceAll("-", " ")
+      }
       links = {
-        Quelltext: `https://github.com/Catchears/was-ihr-wollt/blob/main/content/${slug}`,
+        Quelltext: `https://github.com/Catchears/was-ihr-wollt/blob/main/content/${slug}?plain=1`,
         ...links
       }
     }
