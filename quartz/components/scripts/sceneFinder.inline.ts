@@ -65,6 +65,25 @@ function sortNames(names: string[]): string[] {
   return names
 }
 
+function getLink(act: number, scene: number): HTMLHeadingElement {
+  let heading = document.createElement("h2")
+
+  let link = document.createElement("a")
+
+  link.innerText = `Akt ${act}, Szene ${scene}`
+
+  link.classList.add("internal")
+  const dataSlug = `act-${act}/act-${act}-scene-${scene}`
+  link.setAttribute("data-slug", dataSlug)
+  link.href = `./${dataSlug}`
+  heading.appendChild(link)
+  return heading
+}
+
+function getMapKey(row: dataRow): string {
+  return `a${row.act}s${row.scene}`
+}
+
 // @ts-expect-error
 window.buttonPressedCallback = async function () {
   const data = formatData(await datapromise)
@@ -97,17 +116,21 @@ window.buttonPressedCallback = async function () {
 
   let key = parseInt(stringkey, 2)
 
-  let results: dataRow[] = []
+  let results = new Map<string, dataRow[]>()
 
-  let attemptedResults: number[] = []
+  let lastKeySet: string = ""
 
   for (let i = 0; i < 99; i++) {
     if ((key & ~data.data[i].data) === 0) {
-      // uncomment below line to hide duplicate results
-      // attemptedResults.push(data.data[i].index)
-      if (!attemptedResults.includes(i - 1)) {
-        results.push(data.data[i])
+      let key = getMapKey(data.data[i])
+      if (results.has(key)) {
+        const pushTarget = results.get(key)!
+        pushTarget.push(data.data[i])
+        results.set(key, pushTarget)
+      } else {
+        results.set(key, [data.data[i]])
       }
+      lastKeySet = key
     }
   }
 
@@ -115,25 +138,30 @@ window.buttonPressedCallback = async function () {
 
   target.innerHTML = ""
 
-  results.forEach((value) => {
+  for (const [key, values] of results.entries()) {
     let node = document.createElement("div")
-    let h2 = document.createElement("h2")
-    let p = document.createElement("p")
-    let hr = document.createElement("hr")
-
     node.classList.add("scrollable-element")
 
-    h2.innerHTML = `Akt ${value.act}, Szene ${value.scene}`
-    p.innerHTML = sortNames(getNamesFromKey(data, value.data)).join(", ")
+    let h2 = getLink(values[0].act, values[0].scene)
+    let ul = document.createElement("ul")
+    ul.classList.add("char-list")
+
+    let hr = document.createElement("hr")
+
+    values.forEach((value) => {
+      let li = document.createElement("li")
+      li.innerText = sortNames(getNamesFromKey(data, value.data)).join(", ")
+      ul.appendChild(li)
+    })
     node.appendChild(h2)
-    node.appendChild(p)
-    if (value !== results[results.length - 1]) {
+    node.appendChild(ul)
+    if (!(key === lastKeySet)) {
       node.appendChild(hr)
     }
     target.appendChild(node)
-  })
+  }
 
-  if (results.length === 0) {
+  if (results.size === 0) {
     let node = document.createElement("div")
     let h2 = document.createElement("h2")
     node.classList.add("scrollable-element")
@@ -150,4 +178,6 @@ window.buttonPressedCallback = async function () {
   if (!reloadWarning.classList.contains("hidden")) {
     reloadWarning.classList.add("hidden")
   }
+  // @ts-expect-error
+  document.dispatchEvent(new CustomEvent("reload-links"))
 }

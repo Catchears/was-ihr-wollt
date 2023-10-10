@@ -74,10 +74,14 @@ async function mouseEnterHandler(
   }
 }
 
-document.addEventListener("nav", () => {
+function setupLinks() {
   const links = [...document.getElementsByClassName("internal")] as HTMLLinkElement[]
   for (const link of links) {
     link.removeEventListener("mouseenter", mouseEnterHandler)
     link.addEventListener("mouseenter", mouseEnterHandler)
   }
-})
+}
+
+document.addEventListener("nav", setupLinks)
+
+document.addEventListener("reload-links", setupLinks)
