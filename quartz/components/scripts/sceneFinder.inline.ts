@@ -144,4 +144,9 @@ window.buttonPressedCallback = async function () {
   if (target.classList.contains("hidden")) {
     target.classList.remove("hidden")
   }
+
+  const reloadWarning = document.getElementById("reload-warning")!
+  if (!reloadWarning.classList.contains("hidden")) {
+    reloadWarning.classList.add("hidden")
+  }
 }

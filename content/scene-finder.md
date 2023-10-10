@@ -74,3 +74,7 @@ Wähle bis zu drei Figuren, die in einer Szene vorkommen sollten:
 Jedes mal, wo eine Figur die Bühne betritt oder verlässt beginnt ein neuer Eintrag.
 
 <div class="scrollable-element-list hidden" id="character-search-results"></div>
+
+<div id="reload-warning">
+Wenn der Knopf nicht funktioniert, lade bitte die Seite neu: <button onClick="window.location.href=window.location.href">Neuladen</button>
+</div>
