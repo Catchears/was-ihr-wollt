@@ -11,7 +11,7 @@
   overflow: auto;
   width: 95%;
   max-height: 65vh;
-  border: var(--darkgray);
+  border: var(--lightgray);
   border-radius: 8px;
   border-width: 2px;
   border-style: solid;
@@ -32,7 +32,7 @@
 }
 
 .scrollable-element > hr {
-  background-color: var(--darkgray);
+  background-color: var(--lightgray);
   margin-top: 8px;
   margin-bottom: 8px;
 }
@@ -43,5 +43,5 @@
 
 .char-list {
   margin-top: 8px;
-  padding-left: 25px;
+  padding-left: 5ch;
 }
