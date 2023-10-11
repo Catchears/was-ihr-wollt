@@ -1,7 +1,17 @@
+let targetUrl = ""
+
+if (
+  location.hostname === "localhost" ||
+  location.hostname === "127.0.0.1" ||
+  location.hostname === ""
+) {
+  targetUrl = "http://localhost:8080/static/stage-presence.json"
+} else {
+  targetUrl = "https://catchears.github.io/was-ihr-wollt/static/stage-presence.json"
+}
+
 try {
-  var datapromise = fetch(
-    "https://catchears.github.io/was-ihr-wollt/static/stage-presence.json",
-  ).then(
+  var datapromise = fetch(targetUrl).then(
     (response) => {
       return response.json()
     },
