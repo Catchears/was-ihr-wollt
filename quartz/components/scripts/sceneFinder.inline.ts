@@ -50,7 +50,7 @@ function formatData(data: any): stagePresenceData {
       act: value.act,
       scene: value.scene,
       data: parseInt(value.data, 2),
-      halePage: value.page,
+      halePage: value.halePage,
       englishTranslationPage: value.englishTranslationPage,
       gilesPage: value.gilesPage,
       oldData: value.data,
