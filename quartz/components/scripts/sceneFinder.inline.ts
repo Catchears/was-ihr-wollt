@@ -27,7 +27,16 @@ try {
   }
 }
 
-type dataRow = { index: number; act: number; scene: number; data: number; oldData: string }
+type dataRow = {
+  index: number
+  act: number
+  scene: number
+  data: number
+  oldData: string
+  halePage: number
+  englishTranslationPage: number
+  thinEditionPage: number
+}
 type stagePresenceData = {
   key: string[]
   data: dataRow[]
@@ -41,6 +50,9 @@ function formatData(data: any): stagePresenceData {
       act: value.act,
       scene: value.scene,
       data: parseInt(value.data, 2),
+      halePage: value.page,
+      englishTranslationPage: value.englishTranslationPage,
+      thinEditionPage: value.thinEditionPage,
       oldData: value.data,
     })
   })
@@ -102,6 +114,8 @@ window.buttonPressedCallback = async function () {
     indices.push(getIndexFromId(`char-select-${i}`))
   }
 
+  const chosenEdition = localStorage.getItem("bookEdition") ?? "hale"
+
   let chararray: string[] = []
   indices.forEach((value) => {
     if (value !== undefined) {
@@ -153,19 +167,34 @@ window.buttonPressedCallback = async function () {
     node.classList.add("scrollable-element")
 
     let h2 = getLink(values[0].act, values[0].scene)
-    let ul = document.createElement("ul")
+    let ul = document.createElement("ol")
     ul.classList.add("char-list")
-
-    let hr = document.createElement("hr")
 
     values.forEach((value) => {
       let li = document.createElement("li")
+      let pageNumber = 999
+      switch (chosenEdition) {
+        case "Neue Reclam-Ausgabe": {
+          pageNumber = value.halePage
+          break
+        }
+        case "Alte Reclam-Ausgabe": {
+          pageNumber = value.englishTranslationPage
+          break
+        }
+        case "Deutsch-Englisch Reclam-Ausgabe": {
+          pageNumber = value.thinEditionPage
+          break
+        }
+      }
+      li.setAttribute("value", (pageNumber ?? 999).toString())
       li.innerText = sortNames(getNamesFromKey(data, value.data)).join(", ")
       ul.appendChild(li)
     })
     node.appendChild(h2)
     node.appendChild(ul)
     if (!(key === lastKeySet)) {
+      let hr = document.createElement("hr")
       node.appendChild(hr)
     }
     target.appendChild(node)

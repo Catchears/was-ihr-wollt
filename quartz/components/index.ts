@@ -22,6 +22,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import NearbyScenes from "./NearbyScenes"
 import RedirectToIndex from "./RedirectToIndex"
 import SceneFinder from "./SceneFinder"
+import BookSelection from "./BookSelection"
 
 export {
   ArticleTitle,
@@ -48,4 +49,5 @@ export {
   NearbyScenes,
   RedirectToIndex,
   SceneFinder,
+  BookSelection,
 }
