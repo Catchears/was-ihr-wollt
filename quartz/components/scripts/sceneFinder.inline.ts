@@ -130,7 +130,7 @@ window.buttonPressedCallback = async function () {
 
   let lastKeySet: string = ""
 
-  for (let i = 0; i < 99; i++) {
+  for (let i = 0; i < data.data.length; i++) {
     if ((key & ~data.data[i].data) === 0) {
       let key = getMapKey(data.data[i])
       if (results.has(key)) {
