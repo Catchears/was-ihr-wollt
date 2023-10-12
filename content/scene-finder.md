@@ -5,7 +5,7 @@ description: Finde eine Szene, in der bestimmte Figuren spielen.
 ---
 Wähle bis zu drei Figuren, die in einer Szene vorkommen sollten:
 
-<select name="Figur 1" class="character-select" id="char-select-1">
+<select name="Figur 1" class="custom-select" id="char-select-1">
     <option disabled selected value=0>Figur 1</option>
     <option value=2>1. Gerichtsdiener</option>
     <option value=3>2. Gerichtsdiener</option>
@@ -27,7 +27,7 @@ Wähle bis zu drei Figuren, die in einer Szene vorkommen sollten:
     <option value=19>Viola</option>
 </select>
 
-<select name="Figur 2" class="character-select" id="char-select-2">
+<select name="Figur 2" class="custom-select" id="char-select-2">
     <option selected value=0>-</option>
     <option value=2>1. Gerichtsdiener</option>
     <option value=3>2. Gerichtsdiener</option>
@@ -49,7 +49,7 @@ Wähle bis zu drei Figuren, die in einer Szene vorkommen sollten:
     <option value=19>Viola</option>
 </select>
 
-<select name="Figur 3" class="character-select" id="char-select-3">
+<select name="Figur 3" class="custom-select" id="char-select-3">
     <option selected value=0>-</option>
     <option value=2>1. Gerichtsdiener</option>
     <option value=3>2. Gerichtsdiener</option>
