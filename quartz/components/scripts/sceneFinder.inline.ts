@@ -35,7 +35,7 @@ type dataRow = {
   oldData: string
   halePage: number
   englishTranslationPage: number
-  thinEditionPage: number
+  gilesPage: number
 }
 type stagePresenceData = {
   key: string[]
@@ -52,7 +52,7 @@ function formatData(data: any): stagePresenceData {
       data: parseInt(value.data, 2),
       halePage: value.page,
       englishTranslationPage: value.englishTranslationPage,
-      thinEditionPage: value.thinEditionPage,
+      gilesPage: value.gilesPage,
       oldData: value.data,
     })
   })
@@ -179,11 +179,11 @@ window.buttonPressedCallback = async function () {
           break
         }
         case "Alte Reclam-Ausgabe": {
-          pageNumber = value.englishTranslationPage
+          pageNumber = value.gilesPage
           break
         }
         case "Deutsch-Englisch Reclam-Ausgabe": {
-          pageNumber = value.thinEditionPage
+          pageNumber = value.englishTranslationPage
           break
         }
       }
