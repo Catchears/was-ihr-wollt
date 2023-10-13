@@ -6,7 +6,7 @@ description: Finde eine Szene, in der bestimmte Figuren spielen.
 Wähle deine Ausgabe des Stücks: <select name="book-selector" class="custom-select" id="book-select">
     <option value=0>Neue Reclam-Ausgabe</option>
     <option value=1>Alte Reclam-Ausgabe</option>
-    <option disabled value=2>Deutsch-Englisch Reclam-Ausgabe</option>
+    <option value=2>Deutsch-Englisch Reclam-Ausgabe</option>
 </select>
 
 Wähle bis zu drei Figuren, die in einer Szene vorkommen sollten:
