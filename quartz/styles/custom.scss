@@ -1,3 +1,5 @@
+@use "./base.scss";
+
 // put your custom CSS here!
 #explorer-content > #explorer-ul {
   max-height: calc(90vh - 400px);
