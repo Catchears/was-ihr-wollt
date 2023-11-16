@@ -94,6 +94,8 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         // Add current slug to full path
         currentPath += slugParts[i] + "/"
 
+        curPathSegment = curPathSegment.replace("figuren", "Figuren")
+
         // Format and add current crumb
         const crumb = formatCrumb(curPathSegment, fileData.slug!, currentPath as SimpleSlug)
         crumbs.push(crumb)
