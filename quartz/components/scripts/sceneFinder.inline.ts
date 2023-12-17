@@ -114,7 +114,7 @@ window.buttonPressedCallback = async function () {
     indices.push(getIndexFromId(`char-select-${i}`))
   }
 
-  const chosenEdition = localStorage.getItem("bookEdition") ?? "hale"
+  const chosenEdition = localStorage.getItem("bookEdition") ?? "Neue Reclam-Ausgabe"
 
   let chararray: string[] = []
   indices.forEach((value) => {
