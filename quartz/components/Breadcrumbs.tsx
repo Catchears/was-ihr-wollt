@@ -25,6 +25,11 @@ interface BreadcrumbOptions {
    * Wether to display breadcrumbs on root `index.md`
    */
   hideOnRoot: boolean
+  /**
+   * Wether to display the current page in the breadcrumbs.
+   */
+  showCurrentPage: boolean
+
   displayClass: boolean | undefined
 }
 
@@ -33,6 +38,7 @@ const defaultOptions: BreadcrumbOptions = {
   rootName: "Home",
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
+  showCurrentPage: true,
   displayClass: undefined
 }
 
@@ -102,10 +108,12 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       }
 
       // Add current file to crumb (can directly use frontmatter title)
-      crumbs.push({
-        displayName: fileData.frontmatter!.title,
-        path: "",
-      })
+      if (options.showCurrentPage) {
+        crumbs.push({
+          displayName: fileData.frontmatter!.title,
+          path: "",
+        })
+      }
     }
     return (
       <nav class={`breadcrumb-container ${displayClass ?? ""}`} aria-label="breadcrumbs">
