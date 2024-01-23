@@ -10,22 +10,15 @@ if (
   targetUrl = "https://catchears.github.io/was-ihr-wollt/static/stage-presence.json"
 }
 
-try {
-  var datapromise = fetch(targetUrl).then(
-    (response) => {
-      return response.json()
-    },
-    (response) => {
-      console.warn("wasn't able to load stage presence data!")
-      return undefined
-    },
-  )
-} catch (e) {
-  if (e instanceof SyntaxError) {
-  } else {
-    throw e
-  }
-}
+var datapromise = fetch(targetUrl).then(
+  (response) => {
+    return response.json()
+  },
+  (response) => {
+    console.warn("wasn't able to load stage presence data!")
+    return undefined
+  },
+)
 
 type dataRow = {
   index: number
